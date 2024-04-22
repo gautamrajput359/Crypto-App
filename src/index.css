@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #020D19;
+    /* background: url("bcg.jpg"); */
+    /* background-size: cover; */
+}                    
